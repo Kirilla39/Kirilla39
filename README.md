@@ -4,8 +4,9 @@ Currently have 0 skills which could be useful, maybe i'll learn something, but l
 <!--START_SECTION:waka-->
 
 ```txt
-Lua     1 min           ████████████████████████▒   97.50 %
-Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+C++     53 mins         ██████████████████████░░░   88.11 %
+Other   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+Lua     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
