@@ -4,9 +4,11 @@ Currently have 0 skills which could be useful, maybe i'll learn something, but l
 <!--START_SECTION:waka-->
 
 ```txt
-C++     53 mins         ██████████████████████░░░   88.11 %
-Other   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Lua     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+hyprlang   2 hrs 23 mins   ██████████████▓░░░░░░░░░░   58.04 %
+C++        57 mins         ██████░░░░░░░░░░░░░░░░░░░   23.35 %
+Bash       19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+Other      11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+conf       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 ```
 
 <!--END_SECTION:waka-->
