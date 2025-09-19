@@ -4,11 +4,11 @@ Currently have 0 skills which could be useful, maybe i'll learn something, but l
 <!--START_SECTION:waka-->
 
 ```txt
-hyprlang   2 hrs 23 mins   ██████████████▓░░░░░░░░░░   58.04 %
-C++        57 mins         ██████░░░░░░░░░░░░░░░░░░░   23.35 %
-Bash       19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-Other      11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-conf       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+hyprlang      2 hrs 23 mins   ███████████░░░░░░░░░░░░░░   44.66 %
+Python        1 hr 4 mins     █████░░░░░░░░░░░░░░░░░░░░   20.17 %
+C++           57 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+Bash          22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Other         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
