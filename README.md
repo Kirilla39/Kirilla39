@@ -4,11 +4,11 @@ Currently have 0 skills which could be useful, maybe i'll learn something, but l
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin         6 hrs 21 mins   ██████████░░░░░░░░░░░░░░░   40.19 %
-Other          2 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
-C#             2 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
-JavaScript     1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-Python         1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Kotlin           6 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.17 %
+Java             3 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
+Other            2 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+C#               2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+JavaScript       1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
 ```
 
 <!--END_SECTION:waka-->
