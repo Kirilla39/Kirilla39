@@ -4,11 +4,11 @@ Currently have 0 skills which could be useful, maybe i'll learn something, but l
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       5 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
-JavaScript       4 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
-C++              3 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.64 %
-Java             3 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
-Python           1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+TypeScript     5 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.77 %
+C++            5 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.44 %
+JavaScript     4 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+Python         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Lua            40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
