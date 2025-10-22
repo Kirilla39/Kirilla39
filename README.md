@@ -4,11 +4,11 @@ Currently have 0 skills which could be useful, maybe i'll learn something, but l
 <!--START_SECTION:waka-->
 
 ```txt
-PHP            6 hrs 35 mins   ██████████████▒░░░░░░░░░░   57.68 %
-C++            2 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
-Other          36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-INI            20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-hyprlang       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+PHP            7 hrs 23 mins   ██████████████▓░░░░░░░░░░   58.50 %
+C++            2 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.54 %
+Other          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+hyprlang       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+JSON           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
