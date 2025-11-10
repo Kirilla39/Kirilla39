@@ -4,11 +4,11 @@ Currently have 0 skills which could be useful, maybe i'll learn something, but l
 <!--START_SECTION:waka-->
 
 ```txt
-C++          8 hrs 7 mins    ████████████████▓░░░░░░░░   66.97 %
-TypeScript   1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-Lua          43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-JSON         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-Other        33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+C++          4 hrs 30 mins   █████████████▒░░░░░░░░░░░   53.96 %
+TypeScript   1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+Lua          43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+Other        30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+JSON         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
