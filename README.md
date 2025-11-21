@@ -4,11 +4,11 @@ Currently have 0 skills which could be useful, maybe i'll learn something, but l
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     3 hrs 57 mins   ██████████▓░░░░░░░░░░░░░░   42.52 %
-Python         1 hr 24 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
-JavaScript     52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-hyprlang       39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-swayconfig     30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+TypeScript   2 hrs 14 mins   ████████▓░░░░░░░░░░░░░░░░   35.08 %
+Rust         1 hr 10 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
+Python       50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+JavaScript   40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+Other        35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
 ```
 
 <!--END_SECTION:waka-->
