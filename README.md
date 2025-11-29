@@ -4,11 +4,11 @@ Currently have 0 skills which could be useful, maybe i'll learn something, but l
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       1 hr 27 mins    ████████████████░░░░░░░░░   64.01 %
-Other      21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
-C++        12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-JSON       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-TOML       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+CSS        1 hr 32 mins    ███████████▒░░░░░░░░░░░░░   45.79 %
+Rust       53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.66 %
+C++        12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+INI        11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+JSON       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
