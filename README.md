@@ -4,11 +4,11 @@ Currently have 0 skills which could be useful, maybe i'll learn something, but l
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              4 hrs 9 mins    ██████████████▒░░░░░░░░░░   57.36 %
-CSS               1 hr 32 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
-Kotlin            24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-Other             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-C++               12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Rust              5 hrs 29 mins   ████████████░░░░░░░░░░░░░   48.23 %
+Kotlin            2 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   24.61 %
+CSS               1 hr 32 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+hyprlang          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Other             22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
