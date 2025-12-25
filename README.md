@@ -4,11 +4,11 @@ Currently have 0 skills which could be useful, maybe i'll learn something, but l
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         5 hrs 32 mins   █████████████░░░░░░░░░░░░   52.20 %
-TypeScript   3 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   36.43 %
-Python       42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Other        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-TOML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Rust         4 hrs 57 mins   █████████████▒░░░░░░░░░░░   53.75 %
+TypeScript   2 hrs 55 mins   ████████░░░░░░░░░░░░░░░░░   31.76 %
+Python       42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Other        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
