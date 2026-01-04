@@ -4,11 +4,11 @@ Currently have 0 skills which could be useful, maybe i'll learn something, but l
 <!--START_SECTION:waka-->
 
 ```txt
-Rust    56 mins         █████████▒░░░░░░░░░░░░░░░   36.86 %
-TOML    47 mins         ███████▓░░░░░░░░░░░░░░░░░   30.69 %
-netrw   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-conf    10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Other   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Rust         2 hrs 31 mins   █████████████▓░░░░░░░░░░░   54.91 %
+Other        1 hr 2 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
+swayconfig   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+netrw        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+conf         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
