@@ -18,7 +18,8 @@ Sadly, unemployed.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust    7 mins          █████████████████████████   99.53 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
