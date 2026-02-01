@@ -1,5 +1,7 @@
 ## About me
-Currently have 0 skills which could be useful, maybe i'll learn something, but later.
+Currently have 0 skills or big projects to show on GitHub.
+
+Contibutor of [Blackhole-vl](https://github.com/Nizarjh/blackhole-vl) - Void Linux community-driven repository.
 
 Sadly, unemployed.
 
