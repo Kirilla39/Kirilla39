@@ -20,9 +20,7 @@ Sadly, unemployed.
 <!--START_SECTION:waka-->
 
 ```txt
-conf    1 hr 5 mins     ███████████████████████▓░   94.29 %
-Rust    3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Other   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
