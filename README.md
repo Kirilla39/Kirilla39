@@ -20,7 +20,11 @@ Sadly, unemployed.
 <!--START_SECTION:waka-->
 
 ```txt
-Other   0 secs                █████████████████████████   100.00 %
+PHP          2 hrs 41 mins         ███████▓░░░░░░░░░░░░░░░░░   30.41 %
+conf         1 hr 43 mins          █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+Python       1 hr 8 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
+Bash         1 hr 4 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Other        1 hr                  ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
 ```
 
 <!--END_SECTION:waka-->
