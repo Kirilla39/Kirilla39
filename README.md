@@ -1,7 +1,7 @@
 ## About me
 Currently have 0 skills or big projects to show on GitHub.
 
-Contibutor of [Blackhole-vl](https://github.com/Nizarjh/blackhole-vl) - Void Linux community-driven repository.
+Contibutor of [Blackhole-vl](https://github.com/Event-Horizon-VL/blackhole-vl) - Void Linux community-driven repository.
 
 Sadly, unemployed.
 
