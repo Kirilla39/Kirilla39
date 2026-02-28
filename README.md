@@ -20,11 +20,7 @@ Sadly, unemployed.
 <!--START_SECTION:waka-->
 
 ```txt
-conf         2 hrs 18 mins         ████████████░░░░░░░░░░░░░   47.96 %
-Bash         1 hr 5 mins           █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
-Other        37 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
-swayconfig   16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-CSS          12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
