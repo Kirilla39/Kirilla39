@@ -20,7 +20,9 @@ Sadly, unemployed.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#       8 mins                ██████████████▓░░░░░░░░░░   59.12 %
+CSS      3 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
+CSHTML   2 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
 ```
 
 <!--END_SECTION:waka-->
