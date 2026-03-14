@@ -11,7 +11,7 @@ Sadly, unemployed.
 
 **Libs, Frameworks, etc. i've worked with:**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,flask,next,discordjs,electron,unity,forgemc,fabricmc,flutter,selenium,bootstrap,tailwind,mysql,mongodb&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,flask,next,electron,unity,forgemc,fabricmc,flutter,selenium,bootstrap,tailwind,mysql,mongodb&theme=dark)
 
 ###  OS / Software:
 
