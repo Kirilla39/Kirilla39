@@ -5,6 +5,10 @@ Contibutor of [Blackhole-vl](https://github.com/Event-Horizon-VL/blackhole-vl) -
 
 Sadly, unemployed.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Kirilla's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Kirilla39&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="600px" />
+</a>
+
 ## Other useless things:
 ### Can write "hello, world" with:
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=rust,ts,js,nodejs,cs,java,kotlin,python&theme=dark)
