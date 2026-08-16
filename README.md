@@ -29,11 +29,11 @@ Sadly, unemployed.
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            4 hrs 12 mins         ████████████▓░░░░░░░░░░░░   50.70 %
-Rust              1 hr 42 mins          █████░░░░░░░░░░░░░░░░░░░░   20.58 %
-Other             42 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-TypeScript        29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-Java Properties   18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Kotlin            4 hrs 2 mins          █████████████▓░░░░░░░░░░░   54.76 %
+Rust              1 hr 18 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
+Other             35 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+TypeScript        29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Java Properties   18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->
